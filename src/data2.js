@@ -1,12 +1,4 @@
-export const data = [
-  {
-    id: 47,
-    title: "react FrontEnd",
-    content:
-      "Hello there we are having a bit issue on FrontEnd on progress solving it",
-    createdDate: "2023-11-02T07:47:20.523Z",
-    editedDate: null,
-    comments: [
+  comments: [
       {
         id: 16,
         postId: 47,
@@ -87,5 +79,3 @@ export const data = [
         postId: 47,
       },
     ],
-  },
-];
